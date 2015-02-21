@@ -3,7 +3,7 @@ MF-new-GUI
 
 Custom canvas controls classes
 
-The code is commented. Tested on Mac and Windows systems. Feel free to use and modify the Sky Kit. The Source Code is released under the LGLP V.3
+The code is commented. Tested on Mac and Windows systems. Feel free to use and modify as you like. The Source Code is released under the LGLP V.3
 
 Copyright (c) 2012 Eudosia Systems - www.eudosia-systems.it
 
